@@ -53,6 +53,19 @@ To build reliable and practical automation solutions by integrating AI, APIs, sp
 
 ---
 
-My Certificates
+Certificates
+
+<img width="2246" height="1587" alt="n8n QS101 Certificate _ n8n" src="https://github.com/user-attachments/assets/1d5b153d-fc5c-4f91-bde5-c26d7ab68a13" />
+
+<img width="2246" height="1587" alt="n8n N8N101 Certificate _ n8n" src="https://github.com/user-attachments/assets/9e8f9cb1-7a1e-4ea7-a06f-e374f74fae8c" />
+
+<img width="2246" height="1587" alt="n8n N8N102 Certificate _ n8n" src="https://github.com/user-attachments/assets/36fc0a7b-b785-4ed5-88f0-eb221a536e52" />
+
+<img width="2246" height="1587" alt="n8n N8N103 Certificate _ n8n" src="https://github.com/user-attachments/assets/1048a2bc-b29e-42e9-bf75-bef1b30238cc" />
+
+
+
+
+
 
 
